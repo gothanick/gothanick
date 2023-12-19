@@ -18,6 +18,8 @@ export default function Page() {
         <div
           className="h-0 w-0 border-b-[30px] border-l-[20px] border-r-[20px] border-b-black border-l-transparent border-r-transparent"
         />
+
+        <p>Dette er et previes!!!!!!!!!!!!</p>
         <p
          className={`${lusitana.className} text-xl text-gray-800 md:text-3xl md:leading-normal`}
         >            
